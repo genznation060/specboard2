@@ -1,0 +1,2 @@
+[2026-10-20 20:59:59.840] CrashLogger installed. Device: Xiaomi M2004J19PI (Android 11, SDK 30)
+[2026-10-20 20:59:59.840] CrashLogger installed. Device: Xiaomi M2004J19PI (Android 11, SDK 30)
